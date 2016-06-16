@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tipos_mapa">
+        <item>Normal</item>
+        <item>Hibrido</item>
+        <item>Satelital</item>
+        <item>Terreno</item>
+        <item>Sin Capas</item>
+    </string-array>
+</resources>
